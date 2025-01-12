@@ -1,1 +1,1 @@
-# mta-sts.uplands.co
+MTA-STS policy for uplands.co
